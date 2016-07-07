@@ -2,8 +2,14 @@
 
 /**
  * @subpackage Autoupdate
- * @version 1.0.0
+ * @version 1.0.0-alpha
  * @package Boilerplate II
+ *
+ * @NOTE FOR TESTING ONLY RIGHT NOW
+ *
+ * This package has not been testing in a production
+ * environment yet. Use it cautiously.
+ *
  */
 
 plugin_requires_version( 'autoupdate', '2.0.0' );
